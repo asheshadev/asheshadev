@@ -17,6 +17,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asheshadev&layout=compact&hide=html" alt="asheshadev" /></p>
 
+---
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asheshadev&show_icons=true" alt="asheshadev" /></p>
 
 ---
