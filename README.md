@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Laravel**
 
-- 🌱 I’m currently learning **Front-end Framework**
+- 🌱 I’m currently learning ***Front-end Framework***
 
 ---
 
